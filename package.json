@@ -1,7 +1,15 @@
 {
   "name": "manage-passwords",
-  "version": "1.0.0",
+  "description": "An application for password managing",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/venraij/manage-passwords.git"
+  },
+  "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/venraij/manage-passwords",
+  "license": "MIT",
+  "author": "Nick van Raaij <dagelijksnick@gmail.com>",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
